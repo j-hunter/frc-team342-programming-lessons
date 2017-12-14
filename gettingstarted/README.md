@@ -1,8 +1,8 @@
 # Getting Started 
 
-Start here!  This section will cover the setup of the required tools to
-program for the team. Head into each folder in order (starting with 01-git) to
-get started programming with FIRST Team 342.
+Start here!  This section will cover the setup of the required tools to program
+for the team. Head into each folder in order (starting with 01-git) to get
+started programming with FIRST Team 342.
 
 # Git
 
@@ -81,3 +81,10 @@ Opencv is used on a pi with the python opencv bindings.
 
 TODO Used for object detection and other image processing. slightly advanced
 concept.
+
+# Robotics
+
+Include a detailed explanation of all concepts used for development of robot in
+build season. 
+
+TODO Be careful to keep pure-java related concepts under the java section.

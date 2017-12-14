@@ -11,3 +11,7 @@ https://help.github.com/articles/dealing-with-line-endings/
 
 Currently git is the first lesson. It may be better to change basic computer
 skills to the first lesson.
+
+# TODO Vocabulary?
+
+Start working on a list of vocabulary words for each lesson
