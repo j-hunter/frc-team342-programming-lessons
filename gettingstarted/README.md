@@ -10,6 +10,9 @@ Our team uses the version control system <a href=www.git-scm.com>Git</a> to
 manage code and other related projects. Which git tools you use is up to you,
 but these lessons will cover the installation and use of Git for Windows.
 
+Also basic text editing concepts may be included here to practice working with
+version control of text files.
+
 # Basic computer concepts
 
 TODO Basic computer science and computer system knowledge that students are
@@ -45,13 +48,36 @@ TODO Practice java concepts that will be useful for robot java development
 
 TODO python
 
-# Opencv
+# Pi/roborio/git linux shell basics
 
-TODO Used for object detection and other image processing. slightly advanced
-concept.
+include a tutorial of basic commands.
 
-# Pi/roborio/git shell linux
+Eg:
+
+* exit
+
+* cat
+
+* vi and vim and nano and emacs
+
+* less
+
+* tail
+
+* more
+
+* grep
+
+* cd
+
+* TODO most coreutils?
 
 TODO Very basic introduction to working with the linux command line, which is
 occasionally useful for working with some lower level configuration details.
 
+## Opencv
+
+Opencv is used on a pi with the python opencv bindings.
+
+TODO Used for object detection and other image processing. slightly advanced
+concept.
