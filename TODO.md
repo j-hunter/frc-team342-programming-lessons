@@ -15,3 +15,5 @@ skills to the first lesson.
 # TODO Vocabulary?
 
 Start working on a list of vocabulary words for each lesson
+
+# TODO Merge Programming and basic computing concepts lessons
