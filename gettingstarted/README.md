@@ -16,8 +16,8 @@ version control of text files.
 # Basic computer concepts
 
 TODO Basic computer science and computer system knowledge that students are
-expected to know before joining the programming team. Does not have to be
-strict requirement, but beginners would be suggested to do more studying on
+expected to know to be successful on the programming team. Does not have to
+be strict requirement, but beginners would be suggested to do more studying on
 their own. Without these concepts, the students may not be able to make
 significant contributions to the programming team because they won't be able to
 work well with other programming students and will frequently need refreshers
